@@ -12,6 +12,8 @@
   "devDependencies": {
     "@nuxtjs/supabase": "^1.1.5",
     "@unocss/nuxt": "^0.58.4",
+    "@vue-macros/nuxt": "^1.9.21",
+    "@vue-macros/reactivity-transform": "^0.4.3",
     "@vueuse/core": "^10.7.2",
     "nuxt": "^3.9.3",
     "sass": "^1.70.0",
