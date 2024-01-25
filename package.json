@@ -1,0 +1,38 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.9.3",
+    "vue": "^3.4.14",
+    "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@strudel.cycles/core": "^0.10.0",
+    "@strudel.cycles/csound": "^0.10.0",
+    "@strudel.cycles/midi": "^0.10.0",
+    "@strudel.cycles/mini": "^0.10.0",
+    "@strudel.cycles/osc": "^0.10.0",
+    "@strudel.cycles/serial": "^0.10.0",
+    "@strudel.cycles/soundfonts": "^0.10.0",
+    "@strudel.cycles/tonal": "^0.10.0",
+    "@strudel.cycles/transpiler": "^0.10.0",
+    "@strudel.cycles/webaudio": "^0.10.0",
+    "@strudel/codemirror": "^1.0.0",
+    "@strudel/hydra": "^1.0.0",
+    "@strudel/web": "^1.0.0",
+    "@tresjs/cientos": "^3.7.0",
+    "@tresjs/core": "^3.6.1",
+    "@tresjs/nuxt": "^2.0.2",
+    "@tresjs/post-processing": "^0.7.0",
+    "superdough": "^1.0.0",
+    "three": "^0.160.1"
+  }
+}
