@@ -9,8 +9,4 @@
 <img width="323" alt="Frame 2" src="https://github.com/user-attachments/assets/b3693fb0-31b9-4502-bb15-8e3b1ea17c70" />
 <div></div>
 
-<img width="324" alt="tempImageyHZQSr 5" src="https://github.com/user-attachments/assets/61df0c88-a525-4831-a59a-7a1099ee2d5e" />
-<div></div>
-
-
 find websocket-osc-bridge-server on https://github.com/kauzkoko/livecoding-servers
